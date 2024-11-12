@@ -6,7 +6,7 @@ I'm a passionate Software Engineer with a knack for building scalable, secure, a
 
 ## What I Do 🚀
 
-- **Backend Wizardry** 🧙‍♂️: Crafting robust backends with Node.js, Golang, Java Spring Boot, and Python/Django.
+- **Backend Wizardry** 🧙‍♂️: Crafting robust backends with Node.js and Python/Django.
 - **Cloud Magic** ☁️: Leveraging AWS, Cloudflare, and Docker to keep things running smoothly.
 - **Data Dynamo** 💾: Ensuring efficient data management with MongoDB, MySQL, PostgreSQL, and Prisma ORM.
 - **Messaging Master** 📡: Enabling seamless inter-service communication with Kafka and RabbitMQ.
