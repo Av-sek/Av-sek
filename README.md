@@ -73,3 +73,5 @@ Trinity International College, Dillibazar, Kathmandu
 - **[GitHub](https://github.com/Av-sek)**
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojen11&layout=compact)](https://github.com/rojen11/github-readme-stats)
